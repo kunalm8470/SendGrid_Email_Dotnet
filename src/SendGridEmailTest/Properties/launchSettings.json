@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SendGridEmailTest": {
+      "commandName": "Project",
+      "jsWebView2Debugging": true
+    }
+  }
+}
